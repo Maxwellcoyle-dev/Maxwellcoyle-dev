@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </a>
 
-### OS 
-
-<a href="https://www.microsoft.com/en-us/windows">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</a>
-
 ### Connect
 
 <a href="https://www.linkedin.com/in/max-henderson-react-developer/">
